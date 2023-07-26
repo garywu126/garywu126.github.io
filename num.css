@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+#randomBtn {
+  margin-top: 10px;
+}
+
+#display {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
